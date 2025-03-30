@@ -1,0 +1,17 @@
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

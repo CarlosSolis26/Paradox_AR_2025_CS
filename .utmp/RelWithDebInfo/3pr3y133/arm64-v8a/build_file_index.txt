@@ -1,0 +1,2 @@
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Paradox\Cuarto Semestre\Realidad Virtual y Aumentada ll\UnityProjects\Proyecto_AR_2025\Proyecto_AR_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
